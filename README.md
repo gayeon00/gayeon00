@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=random&text=gayeon%20choi&fontSize=90&fontColor=424949&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=random&text=gayeon%20choi&fontSize=90&fontColor=424949&fontAlign=60)
