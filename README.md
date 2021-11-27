@@ -29,3 +29,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Node&#46js-339933?style=flat-square&logo=Node&#46js&logoColor=white"/>&nbsp 
    <br /> 
+  
+  <h3 align="center">🎈 About Me 🎈 </h3>
+  <p align="center"> You can find me at </p>
+  <p align="center">
+    <a src="https://www.instagram.com/_chaega_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
